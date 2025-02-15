@@ -1,2 +1,2 @@
 # semantic-segmentation-project
-second homework of the ANN2DL course
+The second homework for the ANN2DL course focuses on the semantic segmentation of images of mars terrain into 5 classes. I've tested various encoder-decoder architectures like: UNet, double UNet and UNet++, which, combined with data augmentation, learning rate scheduler and a designed custom loss proved to be the most effective approach. Additional experiments and project details can be found in the attached report and notebooks.
